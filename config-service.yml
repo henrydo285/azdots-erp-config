@@ -1,4 +1,5 @@
 info.description: Config Service
+spring.profiles.active: cloud
 ---
 spring:
   profiles: cloud
