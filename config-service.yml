@@ -1,1 +1,4 @@
 info.description: Config Service
+---
+spring:
+  profiles: cloud
